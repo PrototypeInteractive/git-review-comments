@@ -7,8 +7,8 @@ Atom IDE Package to retrieve git review comments line be line.
 *   This is generated using command ```Package Generator:
 Generate Package``` in Command Palette
 *   For Demo of Generic Atom Package we have implemented
-below feature
-*   Fetch Html of Any url
+below feature [Refer Tutorial](https://github.com/blog/2231-building-your-first-atom-plugin)
+*   Fetch Html of Any url - Screenshot taken from [Tutorial](https://github.com/blog/2231-building-your-first-atom-plugin)
 
  ![A demo of  package](https://cloud.githubusercontent.com/assets/6755555/17759384/836ea91c-64ab-11e6-8fbe-7d15fb482c6d.gif)
 
