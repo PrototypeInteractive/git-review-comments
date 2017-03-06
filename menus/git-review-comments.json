@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Fetch Git Review Comments",
+        "command": "git-review-comments:fetch"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "git-review-comments",
+          "submenu": [
+            {
+              "label": "Fetch code",
+              "command": "git-review-comments:fetch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
