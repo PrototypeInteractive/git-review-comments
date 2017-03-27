@@ -1,8 +1,13 @@
 # git-review-comments package
 
-Atom IDE Package to retrieve git review comments line be line.
+Atom IDE Package to retrieve git review comments line by line.
 
-### Current Status
+### Current Status (V 0.0.2)
+*   Integrated with Git using npm package [github]
+*   Get Git Config From Atom Git Repos
+*   Fetch Pull Request Comments And Display Near Line Number
+
+### V 0.0.1
 *   This is initial commit for Atom IDE Package
 *   This is generated using command ```Package Generator:
 Generate Package``` in Command Palette

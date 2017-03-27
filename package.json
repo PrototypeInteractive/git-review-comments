@@ -1,8 +1,8 @@
 {
   "name": "git-review-comments",
   "main": "./lib/git-review-comments",
-  "version": "0.0.1",
-  "description": "Atom IDE Package to retrieve git review comments line be line",
+  "version": "0.0.2",
+  "description": "Atom IDE Package to retrieve git review comments line by line",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "git-review-comments:fetch"
@@ -13,6 +13,8 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "bluebird": "^3.5.0",
+    "github": "^9.2.0",
     "request": "^2.73.0"
   }
 }
