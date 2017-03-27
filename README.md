@@ -15,7 +15,7 @@ Generate Package``` in Command Palette
 below feature [Refer Tutorial](https://github.com/blog/2231-building-your-first-atom-plugin)
 *   Fetch Html of Any url - Screenshot taken from [Tutorial](https://github.com/blog/2231-building-your-first-atom-plugin)
 
- ![A demo of  package](https://cloud.githubusercontent.com/assets/6755555/17759384/836ea91c-64ab-11e6-8fbe-7d15fb482c6d.gif)
+ ![A demo of  package V 0.0.1](https://cloud.githubusercontent.com/assets/6755555/17759384/836ea91c-64ab-11e6-8fbe-7d15fb482c6d.gif)
 
 
 ### Requirements
@@ -34,6 +34,11 @@ below feature [Refer Tutorial](https://github.com/blog/2231-building-your-first-
 *   Install dependencies ```npm i```
 *   Open the Command Palette ```Cmd+Shift+P```
 *   Run ```Window: Reload```
-*   Go To Package Settings to Configure Git Username and [Token](https://github.com/settings/tokens/new) 
+*   Go To Package Settings to Configure Git Username and [Token](https://github.com/settings/tokens/new)
+
+### Reference
+* [Node Github Api](https://mikedeboer.github.io/node-github/#api-pullRequests-getReviewComments)
+* [Github API](https://developer.github.com/v3/pulls/)
+* [Atom IDE Tutorial](https://github.com/blog/2231-building-your-first-atom-plugin)
 
 ![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
