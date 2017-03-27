@@ -34,5 +34,6 @@ below feature [Refer Tutorial](https://github.com/blog/2231-building-your-first-
 *   Install dependencies ```npm i```
 *   Open the Command Palette ```Cmd+Shift+P```
 *   Run ```Window: Reload```
+*   Go To Package Settings to Configure Git Username and [Token](https://github.com/settings/tokens/new) 
 
 ![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
