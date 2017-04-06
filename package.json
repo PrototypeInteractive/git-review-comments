@@ -3,11 +3,12 @@
   "main": "./lib/git-review-comments",
   "version": "0.0.2",
   "description": "Atom IDE Package to retrieve git review comments line by line",
+  "author" : "Prototype <rizvi@prototype.net>"
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "git-review-comments:fetch"
   },
-  "repository": "https://github.com/atom/git-review-comments",
+  "repository": "https://github.com/PrototypeInteractive/git-review-comments",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
