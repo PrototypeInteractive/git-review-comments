@@ -1,7 +1,7 @@
 {
   "name": "git-review-comments",
   "main": "./lib/git-review-comments",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Atom IDE Package to retrieve git review comments line by line",
   "author": "Prototype <rizvi@prototype.net>",
   "keywords": [],
