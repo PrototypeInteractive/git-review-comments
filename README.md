@@ -7,7 +7,7 @@ Atom IDE Package to retrieve git review comments line by line.
 *   Get Git Config From Atom Git Repos
 *   Fetch Pull Request Comments And Display Near Line Number
 *
-![This is how it works V 0.0.2](https://lh3.googleusercontent.com/0oMeAb-YNfqn5KVyALF2jl18wb0fsUSirc5Uf-QLL5l5Auri0pOED-_J-dVvOspCLlJlEJGdnxx9Sig=w2560-h1406-rw)
+![This is how it works V 0.0.2](https://media.giphy.com/media/3ohzdYVAP8nnmWFDva/giphy.gif)
 
 ### V 0.0.1
 *   This is initial commit for Atom IDE Package
@@ -30,8 +30,8 @@ below feature [Refer Tutorial](https://github.com/blog/2231-building-your-first-
 
     Nodejs is necessary for bower, gulp, and all the extra modules you might need.
 
-### How to proceed
-*   Clone
+### How to proceed [for developers]
+*   Clone [or Fork]
 *   Check Requirements: ```apm -v```
 *   Install dependencies ```npm i```
 *   Open the Command Palette ```Cmd+Shift+P```
