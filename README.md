@@ -6,7 +6,8 @@ Atom IDE Package to retrieve git review comments line by line.
 *   Integrated with Git using npm package [github]
 *   Get Git Config From Atom Git Repos
 *   Fetch Pull Request Comments And Display Near Line Number
-![This is how it works V 0.0.2](https://drive.google.com/file/d/0BzSV5K2CcruzaElaMGl1dFpUWXM/preview)
+*
+![This is how it works V 0.0.2](https://lh3.googleusercontent.com/0oMeAb-YNfqn5KVyALF2jl18wb0fsUSirc5Uf-QLL5l5Auri0pOED-_J-dVvOspCLlJlEJGdnxx9Sig=w2560-h1406-rw)
 
 ### V 0.0.1
 *   This is initial commit for Atom IDE Package
